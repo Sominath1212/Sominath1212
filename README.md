@@ -126,7 +126,8 @@ I build scalable, secure backend systems with **C#, ASP.NET Core, EF Core and SQ
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sominath1212&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
-
+---
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sominath1212&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&card_width=500" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sominath1212&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=500" /> </p> <p align="center"> <img width="80%" src="https://streak-stats.demolab.com/?user=Sominath1212&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sominath1212&theme=tokyo-night&hide_border=true&area=true" /> </p> <p align="center"> <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Sominath1212&theme=onedark&no-frame=true&row=1&column=6" /> </p>
 ---
 
 ## 🏆 Achievements
