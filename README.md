@@ -107,29 +107,26 @@ I build scalable, secure backend systems with **C#, ASP.NET Core, EF Core and SQ
 > 📌 Pin your best 4–6 repositories on this profile so recruiters see them first.
 
 ---
+<div align="center">
 
-## 📊 GitHub Stats
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sominath1212&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sominath1212&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sominath1212&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sominath1212&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sominath1212&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sominath1212&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<div align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=Sominath1212&theme=tokyonight&hide_border=true" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sominath1212&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sominath1212&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Sominath1212&theme=onedark&no-frame=true&row=1&column=6" />
+</div>
 ---
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sominath1212&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&card_width=500" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sominath1212&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=500" /> </p> <p align="center"> <img width="80%" src="https://streak-stats.demolab.com/?user=Sominath1212&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sominath1212&theme=tokyo-night&hide_border=true&area=true" /> </p> <p align="center"> <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Sominath1212&theme=onedark&no-frame=true&row=1&column=6" /> </p>
----
-
 ## 🏆 Achievements
 
 - 🥇 **Smart India Hackathon (SIH) 2024 Finalist**: built a working prototype in 36 hours among thousands of teams nationwide.
