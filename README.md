@@ -104,7 +104,6 @@ I build scalable, secure backend systems with **C#, ASP.NET Core, EF Core and SQ
 `ASP.NET Core MVC` `EF Core` `SQL Server`
 - Tenant-aware middleware, tenant isolation, shared and isolated database strategies.
 
-> 📌 Pin your best 4–6 repositories on this profile so recruiters see them first.
 
 ---
 <div align="center">
@@ -149,7 +148,7 @@ I build scalable, secure backend systems with **C#, ASP.NET Core, EF Core and SQ
 - 💼 LinkedIn: [linkedin.com/in/sominathgirnare](https://www.linkedin.com/in/sominathgirnare)
 - 🌐 Portfolio: [sominathgirnareportfolio.netlify.app](https://sominathgirnareportfolio.netlify.app/)
 - 📧 Email: girnaresominath@gmail.com
-- 📍 Pune, Maharashtra, India
+- 📍 Pune, Maharashtra, India 411014
 
 <p align="center">
   <i>⭐ If you like my work, feel free to star a repo, and let's build something great together!</i>
