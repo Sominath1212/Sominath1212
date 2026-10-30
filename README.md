@@ -127,6 +127,7 @@ I build scalable, secure backend systems with **C#, ASP.NET Core, EF Core and SQ
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Sominath1212&theme=onedark&no-frame=true&row=1&column=6" />
 </div>
 ---
+
 ## 🏆 Achievements
 
 - 🥇 **Smart India Hackathon (SIH) 2024 Finalist**: built a working prototype in 36 hours among thousands of teams nationwide.
